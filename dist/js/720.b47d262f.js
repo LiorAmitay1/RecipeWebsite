@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkassignment_2_1"]=self["webpackChunkassignment_2_1"]||[]).push([[720],{9720:(t,n,s)=>{s.r(n),s.d(n,{default:()=>o});var e=function(){var t=this,n=t._self._c;return n("div",{staticClass:"container"},[n("h1",[t._v("Four Oh Four you didn't")]),n("router-link",{attrs:{to:"/",exact:""}},[t._v("ET Go Home")])],1)},u=[],r=s(1656),a={},l=(0,r.A)(a,e,u,!1,null,null,null);const o=l.exports}}]);
+//# sourceMappingURL=720.b47d262f.js.map

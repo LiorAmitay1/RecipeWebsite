@@ -1,0 +1,13 @@
+/* form-style.scss */
+body {
+  background-image: url("~@/assets/backGround.jpg");
+  background-repeat: repeat; 
+  background-size: cover; 
+  background-attachment: fixed; 
+  background-position: center; 
+  min-height: calc(100vh - 60px);
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding-top: 40px;
+}
