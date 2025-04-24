@@ -21,8 +21,12 @@ RecipeWebsite is a full-stack application for managing and exploring cooking rec
 ## Technologies Used
 
 - Frontend: Vue.js, JavaScript, HTML, SCSS
-- Backend: Node.js (or applicable backend technology)
-- Package manager: npm or yarn
+- Backend: Node.js with Express.js
+- API Architecture: RESTful API
+- API Documentation: Swagger (OpenAPI)
+- Package Manager: npm
+- Version Control: Git & GitHub
+- Development Tools: VS Code, Postman
 
 ## Getting Started
 
